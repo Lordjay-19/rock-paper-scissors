@@ -18,6 +18,11 @@ body {
   margin-left: 20px;
   background-color: transparent;
   cursor: pointer;
+  transition: 0.2s
+}
+
+.move-button:hover{
+  transform: scale(1.1)
 }
 
 .results {
