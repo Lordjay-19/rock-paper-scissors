@@ -22,7 +22,11 @@ body {
 }
 
 .move-button:hover{
-  transform: scale(1.1)
+  transform: scale(1.1);
+}
+
+.move-button:active{
+  transform: scale(0.9);
 }
 
 .results {
