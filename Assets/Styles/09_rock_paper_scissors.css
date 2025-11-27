@@ -17,6 +17,7 @@ body {
   border-radius: 60px;
   margin-left: 20px;
   background-color: transparent;
+  cursor: pointer;
 }
 
 .results {
